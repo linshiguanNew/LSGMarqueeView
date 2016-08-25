@@ -4,7 +4,7 @@
 //
 //  Created by wangzz on 14-3-2.
 //  Copyright (c) 2014年 foogry. All rights reserved.
-//
+//  version 1.0.2
 
 #ifndef WZ_SYSTEM_VERSION_LESS_THAN
 #define WZ_SYSTEM_VERSION_LESS_THAN(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedAscending)
